@@ -1,4 +1,4 @@
-const int N = 200003;
+const int N = ;
 int f[N]; //集
 int rnk[N];//秩(树高度)
 int sz[N];//集合元素个数
